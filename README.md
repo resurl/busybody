@@ -14,7 +14,9 @@ programs more likely to require a GUI
 - organization dashboard -> unsatisfied with the disconnectedness of the google apps
 - price tracker
 - chat / instant messaging service
-
+- something like eyebleach but aesthetic backgrounds (moving?) instead -> i keep looking back to my computer b/c lack of visual stimulation during studying
+- customizable pomodoro timer
+- flexible media checklist (movies, tv shows, anime, books, etc.)
 
 ## game dev
 - tower defense
