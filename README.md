@@ -17,6 +17,7 @@ programs more likely to require a GUI
 - something like eyebleach but aesthetic backgrounds (moving?) instead -> i keep looking back to my computer b/c lack of visual stimulation during studying
 - customizable pomodoro timer
 - flexible media checklist (movies, tv shows, anime, books, etc.)
+- epub viewer that doesn't make me want to cry
 
 ## game dev
 - tower defense
