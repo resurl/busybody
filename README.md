@@ -18,6 +18,7 @@ programs more likely to require a GUI
 - customizable pomodoro timer
 - flexible media checklist (movies, tv shows, anime, books, etc.)
 - epub viewer that doesn't make me want to cry
+- minimalist todo app with google calendar integration
 
 ## game dev
 - tower defense
