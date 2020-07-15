@@ -19,6 +19,7 @@ programs more likely to require a GUI
 - flexible media checklist (movies, tv shows, anime, books, etc.)
 - epub viewer that doesn't make me want to cry
 - minimalist todo app with google calendar integration
+- asl translation chrome extension
 
 ## game dev
 - tower defense
